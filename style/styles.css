@@ -1,0 +1,172 @@
+
+* {
+    margin: 0;
+    font-family: volkhov;
+    color: rgb(14, 0, 0);
+    background: #f7eed4;
+    background-image: url(../images/ondas.svg);
+    background-attachment: fixed;
+    background-position: center center;
+    text-decoration: none;
+
+}
+
+
+.nav1{
+    margin-left:600px;
+    width: 130px;
+    height: 25px;
+    background: rgb(229, 255, 0);
+    display: inline-block;  
+    text-align: center;
+    border: 5px solid #F9ED32;      
+    border-radius: 30px; 
+}
+
+.nav2{
+    margin-left: 20px;
+    width: 130px;
+    height: 25px;
+    background: rgb(229, 255, 0);
+    display: inline-block;
+    text-align: center;
+    border: 5px solid #F9ED32;      
+    border-radius: 30px; 
+}
+
+.nav3{
+    margin-left: 20px;
+    width: 130px;
+    height: 25px;
+    background: rgb(229, 255, 0);
+    display: inline-block;
+    text-align: center;
+    border: 5px solid #F9ED32;      
+    border-radius: 30px; 
+    }
+
+.nav4{
+    margin-left: 20px;
+    width: 130px;
+    height: 25px;
+    background: rgb(229, 255, 0);
+    display: inline-block;
+    text-align: center;
+    border: 5px solid #F9ED32;      
+    border-radius: 30px; 
+}
+
+.nav5{
+    margin-left: 5px;
+    width: 30px;
+    height: 32px;
+    display: inline-block;
+}
+
+
+.bloque1{
+  padding: 20px;
+    width: 500px;
+    height: 900px;
+    flex-grow: 1;
+    display: inline-block;
+    text-align: justify;
+    font-size: 20px;
+    
+        
+}
+
+.bloque2{
+      
+    width: 500px;
+    height: 900px;
+    flex-grow: 1;
+    background: rgb(229, 255, 0);
+    display: inline-block;
+    text-align: justify;
+    font-size: 20px;
+    border: 5px solid #F9ED32;   
+        
+}
+
+.bloques{
+    align-items: center;
+}
+
+.bloque3{   
+    padding: 20px;
+    width: 500px;
+    height: 550px;
+    flex-grow: 1;
+    display: inline-block;
+    text-align: justify;
+    font-size: 20px;
+    border: 5px solid #F9ED32;           
+}
+.bloque4{   
+    padding-top: 0px;  
+    padding-bottom: 0px; 
+    width: 500px;
+    height: 550px;
+    flex-grow: 1;
+    display: inline-block;
+    text-align: justify;
+    font-size: 20px;
+    border: 5px solid #F9ED32;   
+        
+}
+
+
+h2{
+    text-align: center;
+}
+
+.img1{
+    width: 140px;
+    height: 145px;
+}
+
+
+.imagenprincipal{
+    text-align: center;
+    padding-top: 20px; 
+ }
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+ .img{
+    width: 280px;
+    height: 290px;
+ }
+
+   
+ .socialmedia {       
+     margin: center;
+     padding-top: 550;
+     width: 500px;    
+     height: 170px;
+     background: #f7eed4;
+     border: 5px solid #F9ED32;      
+     border-radius: 30px; 
+     display: inline-block;     
+ }
+
+ .logowhsp{
+    margin:center;
+    padding-top: 500;
+    width: 100px;
+    height: 100px;
+    margin-left: 1150px;
+}
+.pequeña{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
